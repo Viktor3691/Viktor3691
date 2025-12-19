@@ -7,7 +7,7 @@
 ### Статистика на GitHub
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Viktor3691&show_icons=true&hide=prs,issues,contribs&theme=dark)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Viktor3691)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Viktor3691&theme=onedark&row=2&column=3)]
 
 ### Мой стек технологий
 ![HTML](https://img.shields.io/badge/-HTML-333?style=for-the-badge&logo=html5)
